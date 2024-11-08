@@ -1,8 +1,13 @@
+# Monthly Revenue Analysis
+
+## SQL Query to Calculate Monthly Revenue
+
 ```sql
 -- SQL query to calculate monthly revenue
-SELECT
-    MONTH(order_date) AS month,
+SELECT 
+    MONTH(order_date) AS month, 
     SUM(price) AS total_revenue
 FROM order_details
 GROUP BY month
 ORDER BY month;
+![Monthly Revenue Visualization](MonthlyRevenueViz.png)
