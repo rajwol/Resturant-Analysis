@@ -21,9 +21,9 @@ The dataset includes transactional data on customer orders, menu items, and time
 
 3. **Category-Based Performance**: Italian and Asian cuisines are the top revenue-generating categories, indicating a strong customer preference. This insight supports expanding these categories and focusing on them in promotions.
 
-4. **Customer Traffic and Peak Times**: The busiest time is during lunch (12 PM - 2 PM), with steady traffic into the evening. These insights allow for better staffing and inventory management during peak periods. Additionally, offering a lunch special around 2 PM - 3 PM could help boost customer traffic during the observed mid-afternoon dip.
-
-5. **Daily Revenue Patterns**: Monday has the highest revenue, while Wednesday sees the lowest. To address mid-week slumps, management could consider introducing Wednesday promotions and mid-week specials to increase foot traffic.
+4. **Daily Revenue Patterns**: Monday has the highest revenue, while Wednesday sees the lowest. To address mid-week slumps, management could consider introducing Wednesday promotions and mid-week specials to increase foot traffic.
+   
+5. **Customer Traffic and Peak Times**: The busiest time is during lunch (12 PM - 2 PM), with steady traffic into the evening. These insights allow for better staffing and inventory management during peak periods. Additionally, offering a lunch special around 2 PM - 3 PM could help boost customer traffic during the observed mid-afternoon dip.
 
 6. **Item Price Distribution**: Most items are priced around the mean ($13.29), with a potential opportunity to add premium items above $20 for higher-end customers.
 
